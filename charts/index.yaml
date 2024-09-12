@@ -1,0 +1,9 @@
+apiVersion: v1
+entries:
+  helm-example:
+    - name: helm-example
+      sources:
+      - https://github.com/helm/helm
+      urls:
+      - https://tuantranbpk.github.io/test-helm-charts/charts/helm-example-0.1.0.tgz
+      version: 0.1.0
