@@ -18,3 +18,12 @@ entries:
       urls:
       - https://tuantranbpk.github.io/test-helm-charts/charts/helm-example-0.1.0.tgz
       version: 0.1.0
+  cache-controller:
+    - description: Deploy a basic helm
+      home: https://helm.sh/helm
+      name: cache-controller
+      sources:
+      - https://github.com/helm/helm
+      urls:
+      - https://tuantranbpk.github.io/test-helm-charts/charts/cache-controller-0.0.4.tgz
+      version: 0.0.4
