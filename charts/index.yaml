@@ -9,3 +9,12 @@ entries:
       urls:
       - https://tuantranbpk.github.io/test-helm-charts/charts/alpine-0.2.0.tgz
       version: 0.2.0
+  helm-example:
+    - description: Deploy a basic helm
+      home: https://helm.sh/helm
+      name: helm-example
+      sources:
+      - https://github.com/helm/helm
+      urls:
+      - https://tuantranbpk.github.io/test-helm-charts/charts/helm-example-0.1.0.tgz
+      version: 0.1.0
