@@ -35,3 +35,12 @@ entries:
       urls:
       - https://tuantranbpk.github.io/test-helm-charts/charts/cache-controller-0.0.5.tgz
       version: 0.0.5
+  bks400:
+    - description: Deploy cache controller
+      home: https://helm.sh/helm
+      name: bks400
+      sources:
+      - https://github.com/helm/helm
+      urls:
+      - https://tuantranbpk.github.io/test-helm-charts/charts/bks400-0.0.7.tgz
+      version: 0.0.7
